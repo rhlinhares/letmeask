@@ -52,6 +52,13 @@ O app estará disponível no seu browser pelo endereço http://localhost:3000.
 * Temporariamente o site desenvolvido está acessível pelo link:
 https://letmeask2-rhlinhares.web.app/
 
+## Pendências ⏳
+
+    Responsividade;
+    Melhor controle de rotas;
+    Ordenação por número de likes;
+    Modal para remoção de perguntas e encerramento de salas (em vez de alerta) 
+
 
 ## Autor 🌟
 **Raphael Hubener Linhares**  
