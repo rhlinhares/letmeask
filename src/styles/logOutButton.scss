@@ -1,0 +1,37 @@
+.logout {
+  height: 45px;
+  border-radius: 8px;
+  font-size: 14px;
+  font-weight: 500;
+  background: var(--primary-color);
+  border: 1px solid var(--purple);
+  color: var(--purple);
+  padding: 0 8px;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  transition: filter 0.2s;
+
+  div {
+    background: var(--primary-color);
+    padding-right: 4px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+
+  }
+
+  &:not(:disabled):hover {
+    filter: brightness(0.9);
+  }
+
+  &:disabled {
+    opacity: 0;
+    cursor: not-allowed;
+  }
+}
