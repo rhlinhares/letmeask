@@ -2,7 +2,7 @@
 ## Sobre o projeto
 
 A aplicação busca auxiliar ajudar os criadores de conteúdo com um sistema organizado de perguntas e respostas.
-Este é um projeto desenvolvido pela durante a Next Level Week Together (https://github.com/rocketseat-education/nlw-06-reactjs), apresentada dos dias 20 a 27 de Junho de 2021.
+Este é um projeto desenvolvido durante a Next Level Week Together (https://github.com/rocketseat-education/nlw-06-reactjs), apresentada dos dias 20 a 27 de Junho de 2021.
 
 
 ## Funcionalidades ⚙️
@@ -49,8 +49,6 @@ $ yarn start
 
 O app estará disponível no seu browser pelo endereço http://localhost:3000.
 
-* Temporariamente o site desenvolvido está acessível pelo link:
-https://letmeask2-rhlinhares.web.app/
 
 ## Pendências ⏳
 
@@ -62,4 +60,4 @@ https://letmeask2-rhlinhares.web.app/
 
 ## Autor 🌟
 **Raphael Hubener Linhares**  
-Feito com base no trabalho da equipa da 🚀 Rocketseat https://github.com/rocketseat-education
+Feito com base no trabalho da equipe da 🚀 Rocketseat https://github.com/rocketseat-education
